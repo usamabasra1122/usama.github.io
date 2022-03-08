@@ -59,6 +59,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	font-family: 'Courier New', Courier, monospace
 }
 
 ol, ul {
@@ -2204,7 +2205,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header_img.jpeg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2212,6 +2213,7 @@ input, select, textarea {
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
+		font-family: 'Courier New', Courier, monospace
 	}
 
 		#header:before {
